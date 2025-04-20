@@ -37,3 +37,7 @@ body {
     width: 237px;
     height: 56px;
 }
+
+.loginMain {
+    flex-grow: 1;
+}

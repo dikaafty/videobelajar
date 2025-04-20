@@ -61,3 +61,11 @@ body {
     align-items: center;
     gap: 10px;
 }
+
+.loginTitle {
+    font-family: "Lato";
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 110.00000000000001%;
+    color: var(--primary-dark-text-color);
+}

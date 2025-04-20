@@ -30,3 +30,8 @@ body {
     border-bottom: 1px solid var(--border-color);
     padding: 12px 120px;
 }
+
+.videobelajarLogo {
+    width: 237px;
+    height: 56px;
+}

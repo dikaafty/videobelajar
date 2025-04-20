@@ -28,7 +28,7 @@ body {
 
 .loginHeader {
     background-color: var(--primary-background-color);
-    height: 80px;
+    height: fit-content;
     border-bottom: 1px solid var(--border-color);
     padding: 12px 120px;
 }

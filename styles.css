@@ -38,3 +38,16 @@ body {
     background-color: #FFF7D7CC;
     padding: 64px 120px;
 }
+
+.loginContainer {
+    width: 590px;
+    background-color: var(--primary-background-color);
+    border: 1px solid #F1F1F1;
+    border-radius: 4px;
+    padding: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 36px;
+}

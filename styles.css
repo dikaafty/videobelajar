@@ -78,3 +78,9 @@ body {
     letter-spacing: 0.2px;
     color: var(--secondary-dark-text-color);
 }
+
+.loginAction form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}

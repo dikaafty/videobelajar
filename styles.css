@@ -33,11 +33,6 @@ body {
     padding: 12px 120px;
 }
 
-.videobelajarLogo {
-    width: 237px;
-    height: 56px;
-}
-
 .loginMain {
     flex-grow: 1;
     background-color: #FFF7D7CC;

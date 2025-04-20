@@ -13,3 +13,8 @@
     --secondary-background-color: #F9FAFC;
     --border-color: #3A35411F;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}

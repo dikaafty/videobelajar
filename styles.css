@@ -84,3 +84,9 @@ body {
     flex-direction: column;
     gap: 24px;
 }
+
+.emailInputContainer,
+.passInputContainer {
+    display: flex;
+    flex-direction: column;
+}

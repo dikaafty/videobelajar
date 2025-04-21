@@ -231,7 +231,7 @@ body {
 }
 
 .divider:not(:empty)::before {
-    margin-right: 0.5em;
+    margin-right: 10px;
 }
 
 .divider:not(:empty)::after {

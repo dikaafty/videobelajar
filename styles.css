@@ -282,6 +282,10 @@ body {
     .loginDesc {
         width: 100%;
     }
+
+    .loginTitle {
+        font-size: 24px;
+    }
 }
 
 /* Login styling section end */

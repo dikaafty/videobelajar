@@ -163,7 +163,8 @@ body {
     cursor: pointer;
 }
 
-.loginBtn {
+.loginBtn,
+.registerBtn {
     width: 518px;
     background-color: var(--primary-color);
     color: var(--primary-light-text-color);
@@ -175,4 +176,9 @@ body {
     font-size: 16px;
     line-height: 140%;
     letter-spacing: 0.2px;
+}
+
+.registerBtn {
+    background-color: #E2FCD9CC;
+    color: var(--primary-color);
 }

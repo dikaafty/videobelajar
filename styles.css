@@ -317,6 +317,10 @@ body {
         padding: 7px 22px;
         font-size: 14px;
     }
+
+    .divider {
+        font-size: 14px;
+    }
 }
 
 /* Login styling section end */

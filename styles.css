@@ -278,6 +278,10 @@ body {
         padding: 20px;
         gap: 20px;
     }
+
+    .loginDesc {
+        width: 100%;
+    }
 }
 
 /* Login styling section end */

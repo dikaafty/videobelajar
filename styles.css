@@ -235,7 +235,7 @@ body {
 }
 
 .divider:not(:empty)::after {
-    margin-left: 0.5em;
+    margin-left: 10px;
 }
 
 .googleBtn {

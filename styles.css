@@ -290,6 +290,11 @@ body {
     .loginSubTitle {
         font-size: 14px;
     }
+
+    .inputAction {
+        width: 100%;
+        gap: 12px;
+    }
 }
 
 /* Login styling section end */

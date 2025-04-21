@@ -90,3 +90,13 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.emailInputContainer label,
+.passInputContainer label {
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--secondary-dark-text-color);
+}

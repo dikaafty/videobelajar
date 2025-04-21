@@ -164,6 +164,11 @@ body {
     color: var(--default-error);
 }
 
+.passInputWrapper {
+    display: flex;
+    position: relative;
+}
+
 .emailInputContainer input,
 .passInputContainer input {
     width: 100%;

@@ -192,7 +192,6 @@ body {
 
 .loginBtn,
 .registerBtn {
-    width: 518px;
     background-color: var(--primary-color);
     color: var(--primary-light-text-color);
     border: none;

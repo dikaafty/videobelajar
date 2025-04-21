@@ -311,6 +311,12 @@ body {
     .forgotPass {
         font-size: 14px;
     }
+
+    .loginBtn,
+    .registerBtn {
+        padding: 7px 22px;
+        font-size: 14px;
+    }
 }
 
 /* Login styling section end */

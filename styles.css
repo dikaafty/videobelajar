@@ -123,6 +123,13 @@ body {
     gap: 24px;
 }
 
+.inputAction,
+.buttonAction {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 .emailInputContainer,
 .passInputContainer {
     display: flex;

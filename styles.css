@@ -301,6 +301,11 @@ body {
     .passInputContainer {
         width: 100%;
     }
+
+    .emailInputContainer label,
+    .passInputContainer label {
+        font-size: 14px;
+    }
 }
 
 /* Login styling section end */

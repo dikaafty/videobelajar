@@ -171,6 +171,11 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.forgotPassContainer {
+    display: flex;
+    justify-content: end;
+}
+
 .forgotPass {
     background-color: transparent;
     color: var(--secondary-dark-text-color);

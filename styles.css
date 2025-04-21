@@ -128,6 +128,7 @@ body {
 
 .emailInputContainer label,
 .passInputContainer label {
+    font-family: "DM Sans";
     font-weight: 400;
     font-size: 16px;
     line-height: 140%;

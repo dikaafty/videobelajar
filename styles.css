@@ -135,6 +135,8 @@ body {
     letter-spacing: 0.2px;
     color: var(--secondary-dark-text-color);
     padding: 0 16px 4px 0;
+    display: flex;
+    gap: 4px;
 }
 
 .emailInputContainer label .asterisk,

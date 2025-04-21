@@ -79,6 +79,7 @@ body {
     border: 1px solid #F1F1F1;
     border-radius: 4px;
     padding: 36px;
+    font-family: "Lato";
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -94,7 +95,6 @@ body {
 }
 
 .loginTitle {
-    font-family: "Lato";
     font-weight: 600;
     font-size: 32px;
     line-height: 110.00000000000001%;
@@ -102,7 +102,6 @@ body {
 }
 
 .loginSubTitle {
-    font-family: "Lato";
     font-weight: 400;
     font-size: 16px;
     line-height: 140%;
@@ -128,7 +127,6 @@ body {
 
 .emailInputContainer label,
 .passInputContainer label {
-    font-family: "Lato";
     font-weight: 400;
     font-size: 16px;
     line-height: 140%;
@@ -138,7 +136,6 @@ body {
 
 .emailInputContainer label .asterisk,
 .passInputContainer .asterisk {
-    font-family: "Lato";
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -148,7 +145,6 @@ body {
 
 .emailInputContainer input,
 .passInputContainer input {
-    font-family: "Lato";
     height: 48px;
     padding: 4px 10px;
     border: 1px solid #F1F1F1;

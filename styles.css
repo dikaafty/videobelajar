@@ -295,6 +295,12 @@ body {
         width: 100%;
         gap: 12px;
     }
+
+    .buttonAction,
+    .emailInputContainer,
+    .passInputContainer {
+        width: 100%;
+    }
 }
 
 /* Login styling section end */

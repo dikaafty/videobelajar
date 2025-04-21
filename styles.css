@@ -160,4 +160,5 @@ body {
     line-height: 140%;
     letter-spacing: 0.2px;
     text-align: end;
+    cursor: pointer;
 }

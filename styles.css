@@ -272,6 +272,12 @@ body {
     .loginMain {
         padding: 28px 20px;
     }
+
+    .loginContainer {
+        width: 100%;
+        padding: 20px;
+        gap: 20px;
+    }
 }
 
 /* Login styling section end */

@@ -286,6 +286,10 @@ body {
     .loginTitle {
         font-size: 24px;
     }
+
+    .loginSubTitle {
+        font-size: 14px;
+    }
 }
 
 /* Login styling section end */

@@ -193,6 +193,7 @@ body {
 
 .divider {
     color: var(--secondary-dark-text-color);
+    font-family: "DM Sans";
     font-weight: 400;
     font-size: 16px;
     line-height: 140%;

@@ -299,7 +299,8 @@ body {
 
     .buttonAction,
     .emailInputContainer,
-    .passInputContainer {
+    .passInputContainer,
+    .googleBtn {
         width: 100%;
     }
 
@@ -319,6 +320,11 @@ body {
     }
 
     .divider {
+        font-size: 14px;
+    }
+
+    .googleBtn {
+        height: 34px;
         font-size: 14px;
     }
 }

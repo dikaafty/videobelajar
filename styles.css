@@ -64,6 +64,7 @@ body {
     height: fit-content;
     border-bottom: 1px solid var(--border-color);
     padding: 12px 120px;
+    transition: all 500ms ease-in-out;
 }
 
 .loginMain {

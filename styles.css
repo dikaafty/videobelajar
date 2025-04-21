@@ -162,3 +162,17 @@ body {
     text-align: end;
     cursor: pointer;
 }
+
+.loginBtn {
+    width: 518px;
+    background-color: var(--primary-color);
+    color: var(--primary-light-text-color);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 24px;
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+}

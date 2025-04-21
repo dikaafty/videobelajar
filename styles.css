@@ -110,6 +110,10 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.loginAction {
+    width: 100%;
+}
+
 .loginAction form {
     display: flex;
     flex-direction: column;

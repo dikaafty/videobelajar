@@ -298,7 +298,7 @@ body {
 /* Media Queries section start */
 
 @media (max-width: 600px) {
-    .loginHeader {
+    .header {
         border-top: 1px solid var(--border-color);
         border-bottom: 1px solid var(--border-color);
         padding: 16px 24px;

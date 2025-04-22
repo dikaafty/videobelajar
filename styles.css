@@ -295,7 +295,9 @@ body {
 }
 
 .phoneInputWrapper {
-    display: flex;
+    display: grid;
+    grid-template-columns: 0.93fr 2fr;
+    grid-template-rows: 48px;
     gap: 24px;
 }
 

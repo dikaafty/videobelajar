@@ -305,6 +305,17 @@ body {
     display: flex;
 }
 
+.countryFlagContainer {
+    background-color: var(--base-background-color);
+    border-right: 1px solid #F1F1F1;
+    padding: 4px 10px;
+}
+
+.countryFlagContainer img {
+    width: 24px;
+    aspect-ratio: 1;
+}
+
 /* Register styling section end */
 
 /* Media Queries section start */

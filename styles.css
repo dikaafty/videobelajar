@@ -88,6 +88,13 @@ body {
     gap: 36px;
 }
 
+.formDesc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */

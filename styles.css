@@ -59,7 +59,12 @@ body {
 
 /* Shared class styling section start */
 
-
+.header {
+    background-color: var(--primary-background-color);
+    height: fit-content;
+    border-bottom: 1px solid var(--border-color);
+    padding: 12px 120px;
+}
 
 /* Shared class styling section end */
 

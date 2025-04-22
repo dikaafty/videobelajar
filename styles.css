@@ -92,13 +92,6 @@ body {
 
 /* Login styling section start */
 
-.loginDesc {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-}
-
 .loginTitle {
     font-family: "Poppins";
     font-weight: 600;

@@ -321,6 +321,18 @@ body {
     aspect-ratio: 1;
 }
 
+.phoneInputWrapper select {
+    width: 100%;
+    padding: 4px 10px;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    vertical-align: middle;
+    color: var(--primary-dark-text-color);
+}
+
 /* Register styling section end */
 
 /* Media Queries section start */

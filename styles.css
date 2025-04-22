@@ -288,7 +288,10 @@ body {
 
 /* Register styling section start */
 
-
+.phoneInputContainer {
+    width: 100%;
+    display: flex;
+}
 
 /* Register styling section end */
 

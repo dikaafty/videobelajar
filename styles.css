@@ -123,12 +123,6 @@ body {
 
 /* Login styling section start */
 
-.loginAction form {
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-}
-
 .inputAction,
 .buttonAction {
     display: flex;

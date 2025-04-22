@@ -368,4 +368,13 @@ body {
     padding: 12px 120px;
 }
 
+.registerMain {
+    flex-grow: 1;
+    background-color: #FFF7D7CC;
+    padding: 64px 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Register styling section end */

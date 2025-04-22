@@ -287,6 +287,16 @@ body {
     color: var(--primary-color);
 }
 
+/* Login styling section end */
+
+/* Register styling section start */
+
+
+
+/* Register styling section end */
+
+/* Media Queries section start */
+
 @media (max-width: 600px) {
     .loginHeader {
         border-top: 1px solid var(--border-color);
@@ -361,10 +371,4 @@ body {
     }
 }
 
-/* Login styling section end */
-
-/* Register styling section start */
-
-
-
-/* Register styling section end */
+/* Media Queires section end */

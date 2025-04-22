@@ -263,10 +263,6 @@ body {
     margin-left: 10px;
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .googleBtn {
     width: 518px;
     height: 42px;
@@ -286,6 +282,10 @@ body {
     align-items: center;
     gap: 8px;
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 @media (max-width: 600px) {
     .loginHeader {

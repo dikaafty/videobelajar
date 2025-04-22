@@ -215,10 +215,6 @@ body {
     cursor: pointer;
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .loginBtn,
 .registerBtn {
     width: 518px;
@@ -239,6 +235,10 @@ body {
     background-color: #E2FCD9CC;
     color: var(--primary-color);
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 .divider {
     color: var(--secondary-dark-text-color);

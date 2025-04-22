@@ -291,6 +291,7 @@ body {
 .phoneInputContainer {
     width: 100%;
     display: flex;
+    flex-direction: column;
 }
 
 /* Register styling section end */

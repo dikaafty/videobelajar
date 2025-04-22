@@ -299,6 +299,11 @@ body {
     gap: 24px;
 }
 
+.countryCode {
+    border: 1px solid #F1F1F1;
+    border-radius: 6px;
+}
+
 /* Register styling section end */
 
 /* Media Queries section start */

@@ -140,15 +140,15 @@ body {
 
 /* Login styling section start */
 
-.loginMain .emailInputContainer,
-.loginMain .passInputContainer {
+.emailInputContainer,
+.passInputContainer {
     width: 100%;
     display: flex;
     flex-direction: column;
 }
 
-.loginMain .emailInputContainer label,
-.loginMain .passInputContainer label {
+.emailInputContainer label,
+.passInputContainer label {
     font-family: "DM Sans";
     font-weight: 400;
     font-size: 16px;
@@ -160,21 +160,21 @@ body {
     gap: 4px;
 }
 
-.loginMain .emailInputContainer label .asterisk,
-.loginMain .passInputContainer .asterisk {
+.emailInputContainer label .asterisk,
+.passInputContainer .asterisk {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.15px;
     color: var(--default-error);
 }
 
-.loginMain .passInputWrapper {
+.passInputWrapper {
     display: flex;
     position: relative;
 }
 
-.loginMain .emailInputContainer input,
-.loginMain .passInputContainer input {
+.emailInputContainer input,
+.passInputContainer input {
     width: 100%;
     height: 48px;
     padding: 4px 10px;
@@ -189,7 +189,7 @@ body {
     color: var(--primary-dark-text-color);
 }
 
-.loginMain .passInputWrapper button {
+.passInputWrapper button {
     width: 24px;
     height: 24px;
     background-color: transparent;
@@ -202,12 +202,12 @@ body {
     transform: translateY(-50%);
 }
 
-.loginMain .forgotPassContainer {
+.forgotPassContainer {
     display: flex;
     justify-content: end;
 }
 
-.loginMain .forgotPass {
+.forgotPass {
     background-color: transparent;
     color: var(--secondary-dark-text-color);
     border: none;
@@ -219,8 +219,8 @@ body {
     cursor: pointer;
 }
 
-.loginMain .loginBtn,
-.loginMain .registerBtn {
+.loginBtn,
+.registerBtn {
     width: 518px;
     background-color: var(--primary-color);
     color: var(--primary-light-text-color);
@@ -235,12 +235,12 @@ body {
     cursor: pointer;
 }
 
-.loginMain .registerBtn {
+.registerBtn {
     background-color: #E2FCD9CC;
     color: var(--primary-color);
 }
 
-.loginMain .divider {
+.divider {
     color: var(--secondary-dark-text-color);
     font-family: "DM Sans";
     font-weight: 400;
@@ -252,22 +252,22 @@ body {
     text-align: center;
 }
 
-.loginMain .divider::before,
-.loginMain .divider::after {
+.divider::before,
+.divider::after {
     content: "";
     flex: 1;
     border-bottom: 1px solid #F1F1F1;
 }
 
-.loginMain .divider:not(:empty)::before {
+.divider:not(:empty)::before {
     margin-right: 10px;
 }
 
-.loginMain .divider:not(:empty)::after {
+.divider:not(:empty)::after {
     margin-left: 10px;
 }
 
-.loginMain .googleBtn {
+.googleBtn {
     width: 518px;
     height: 42px;
     background-color: var(--primary-background-color);
@@ -322,39 +322,39 @@ body {
         font-size: 14px;
     }
 
-    .loginMain .inputAction {
+    .inputAction {
         width: 100%;
         gap: 12px;
     }
 
-    .loginMain .buttonAction,
-    .loginMain .emailInputContainer,
-    .loginMain .passInputContainer,
-    .loginMain .googleBtn {
+    .buttonAction,
+    .emailInputContainer,
+    .passInputContainer,
+    .googleBtn {
         width: 100%;
     }
 
-    .loginMain .emailInputContainer label,
-    .loginMain .passInputContainer label {
+    .emailInputContainer label,
+    .passInputContainer label {
         font-size: 14px;
     }
 
-    .loginMain .forgotPass {
+    .forgotPass {
         font-size: 14px;
     }
 
-    .loginMain .loginBtn,
-    .loginMain .registerBtn {
+    .loginBtn,
+    .registerBtn {
         width: 100%;
         padding: 7px 22px;
         font-size: 14px;
     }
 
-    .loginMain .divider {
+    .divider {
         font-size: 14px;
     }
 
-    .loginMain .googleBtn {
+    .googleBtn {
         width: 100%;
         height: 34px;
         font-size: 14px;

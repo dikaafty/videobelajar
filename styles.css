@@ -361,6 +361,11 @@ body {
 
 /* Register styling section start */
 
-
+.registerHeader {
+    background-color: var(--primary-background-color);
+    height: fit-content;
+    border-bottom: 1px solid var(--border-color);
+    padding: 12px 120px;
+}
 
 /* Register styling section end */

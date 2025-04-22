@@ -66,6 +66,15 @@ body {
     padding: 12px 120px;
 }
 
+.main {
+    flex-grow: 1;
+    background-color: #FFF7D7CC;
+    padding: 64px 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */

@@ -426,7 +426,9 @@ body {
     }
 
     .loginBtn.login,
-    .registerBtn.login {
+    .registerBtn.login,
+    .registerBtn.register,
+    .loginBtn.register {
         width: 100%;
         padding: 7px 22px;
         font-size: 14px;

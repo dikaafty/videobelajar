@@ -65,13 +65,6 @@ body {
 
 /* Login styling section start */
 
-.loginHeader {
-    background-color: var(--primary-background-color);
-    height: fit-content;
-    border-bottom: 1px solid var(--border-color);
-    padding: 12px 120px;
-}
-
 .loginMain {
     flex-grow: 1;
     background-color: #FFF7D7CC;
@@ -366,13 +359,6 @@ body {
 /* Login styling section end */
 
 /* Register styling section start */
-
-.registerHeader {
-    background-color: var(--primary-background-color);
-    height: fit-content;
-    border-bottom: 1px solid var(--border-color);
-    padding: 12px 120px;
-}
 
 .registerMain {
     flex-grow: 1;

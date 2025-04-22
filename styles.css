@@ -236,10 +236,6 @@ body {
     color: var(--primary-color);
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .divider {
     color: var(--secondary-dark-text-color);
     font-family: "DM Sans";
@@ -266,6 +262,10 @@ body {
 .divider:not(:empty)::after {
     margin-left: 10px;
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 .googleBtn {
     width: 518px;

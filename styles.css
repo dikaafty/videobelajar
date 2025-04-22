@@ -198,10 +198,6 @@ body {
     transform: translateY(-50%);
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .forgotPassContainer {
     display: flex;
     justify-content: end;
@@ -218,6 +214,10 @@ body {
     letter-spacing: 0.2px;
     cursor: pointer;
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 .loginBtn,
 .registerBtn {

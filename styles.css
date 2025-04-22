@@ -302,6 +302,7 @@ body {
 .countryCode {
     border: 1px solid #F1F1F1;
     border-radius: 6px;
+    display: flex;
 }
 
 /* Register styling section end */

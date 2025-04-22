@@ -99,14 +99,6 @@ body {
 
 /* Login styling section start */
 
-.loginTitle {
-    font-family: "Poppins";
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 110.00000000000001%;
-    color: var(--primary-dark-text-color);
-}
-
 .loginSubTitle {
     font-family: "DM Sans";
     font-weight: 400;

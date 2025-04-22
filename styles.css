@@ -125,10 +125,6 @@ body {
     gap: 24px;
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .inputAction,
 .buttonAction {
     display: flex;
@@ -139,6 +135,10 @@ body {
 .inputAction {
     width: 518px;
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 .loginMain .emailInputContainer,
 .loginMain .passInputContainer {

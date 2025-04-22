@@ -136,10 +136,6 @@ body {
     width: 518px;
 }
 
-/* Shared class styling section end */
-
-/* Login styling section start */
-
 .emailInputContainer,
 .passInputContainer {
     width: 100%;
@@ -201,6 +197,10 @@ body {
     top: 50%;
     transform: translateY(-50%);
 }
+
+/* Shared class styling section end */
+
+/* Login styling section start */
 
 .forgotPassContainer {
     display: flex;

@@ -425,6 +425,11 @@ body {
         font-size: 14px;
     }
 
+    .phoneInputWrapper select,
+    .phoneInputContainer input {
+        font-size: 14px;
+    }
+
     .loginBtn.login,
     .registerBtn.login,
     .registerBtn.register,

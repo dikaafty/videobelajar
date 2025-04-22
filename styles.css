@@ -79,19 +79,6 @@ body {
 
 /* Login styling section start */
 
-.loginContainer {
-    width: 590px;
-    background-color: var(--primary-background-color);
-    border: 1px solid #F1F1F1;
-    border-radius: 4px;
-    padding: 36px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 36px;
-}
-
 .loginDesc {
     display: flex;
     flex-direction: column;

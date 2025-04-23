@@ -288,6 +288,10 @@ body {
 
 /* Register styling section start */
 
+.genderInputContainer {
+    display: none;
+}
+
 .genderInputContainer select {
     width: 100%;
     height: 48px;

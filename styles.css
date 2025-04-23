@@ -458,7 +458,7 @@ body {
     }
 
     .phoneInputWrapper select {
-        width: fit-content;
+        width: 78px;
     }
 
     .phoneInputWrapper input {

@@ -425,9 +425,21 @@ body {
         font-size: 14px;
     }
 
+    .phoneInputWrapper {
+        grid-template-columns: min-content auto;
+    }
+
     .phoneInputWrapper select,
     .phoneInputContainer input {
         font-size: 14px;
+    }
+
+    .phoneInputWrapper select {
+        width: fit-content;
+    }
+
+    .phoneInputWrapper input {
+        width: 100%;
     }
 
     .loginBtn.login,

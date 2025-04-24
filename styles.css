@@ -621,6 +621,12 @@ body {
     gap: 10px;
 }
 
+.charImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

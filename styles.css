@@ -577,6 +577,13 @@ body {
     gap: 16px;
 }
 
+.cardDesc {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 .cardImg {
     width: 344px;
     height: 193px;

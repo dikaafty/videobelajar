@@ -455,6 +455,11 @@ body {
     border-radius: 10px;
     padding: 82px 140px 64px;
     color: var(--primary-light-text-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
 }
 
 .heroDesc {

@@ -68,6 +68,11 @@ body {
     justify-content: space-between;
 }
 
+.videobelajarLogo {
+    width: 237px;
+    height: 56px;
+}
+
 .main {
     flex-grow: 1;
     background-color: #FFF7D7CC;

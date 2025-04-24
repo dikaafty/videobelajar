@@ -584,6 +584,14 @@ body {
     gap: 8px;
 }
 
+.cardTitle {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+    color: var(--primary-dark-text-color);
+}
+
 .cardImg {
     width: 344px;
     height: 193px;

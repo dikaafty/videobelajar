@@ -709,6 +709,13 @@ body {
     box-shadow: 0 12px 45px -10px #003BDE33;
 }
 
+.newsletterContent {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

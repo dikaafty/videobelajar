@@ -627,6 +627,10 @@ body {
     border-radius: 10px;
 }
 
+.courseOwnerInfo {
+    width: 100%;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

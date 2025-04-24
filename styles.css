@@ -653,6 +653,12 @@ body {
     font-weight: 700;
 }
 
+.courseInfo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

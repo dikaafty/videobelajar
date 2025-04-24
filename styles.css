@@ -726,6 +726,12 @@ body {
     color: var(--secondary-light-text-color);
 }
 
+.newsletterDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

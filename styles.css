@@ -664,6 +664,11 @@ body {
     gap: 8px;
 }
 
+.courseRating img {
+    width: 90px;
+    height: 18px;
+}
+
 .textRating {
     font-family: "DM Sans";
     font-weight: 500;

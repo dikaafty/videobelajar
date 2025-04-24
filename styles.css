@@ -457,6 +457,12 @@ body {
     color: var(--primary-light-text-color);
 }
 
+.heroDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

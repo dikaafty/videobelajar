@@ -507,6 +507,13 @@ body {
     gap: 32px;
 }
 
+.cardSectionDesc {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .cardImg {
     width: 344px;
     height: 193px;

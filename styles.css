@@ -649,6 +649,10 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.courseOwnerProfession span {
+    font-weight: 700;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

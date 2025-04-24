@@ -659,6 +659,11 @@ body {
     justify-content: space-between;
 }
 
+.courseRating {
+    display: flex;
+    gap: 8px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

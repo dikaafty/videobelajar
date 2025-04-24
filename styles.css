@@ -64,6 +64,8 @@ body {
     height: fit-content;
     border-bottom: 1px solid var(--border-color);
     padding: 12px 120px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .main {

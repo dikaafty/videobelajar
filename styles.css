@@ -615,6 +615,12 @@ body {
     overflow: hidden;
 }
 
+.courseOwner {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

@@ -500,6 +500,13 @@ body {
     cursor: pointer;
 }
 
+.cardSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
 .cardImg {
     width: 344px;
     height: 193px;

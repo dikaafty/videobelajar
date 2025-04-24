@@ -422,6 +422,20 @@ body {
     justify-content: space-between;
 }
 
+.navBtn {
+    height: fit-content;
+    background-color: transparent;
+    color: var(--secondary-dark-text-color);
+    border: none;
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

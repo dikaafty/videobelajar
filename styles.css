@@ -713,7 +713,7 @@ body {
 }
 
 .newsletterContent {
-    width: fit-content;
+    width: 525px;
     display: flex;
     flex-direction: column;
     gap: 40px;

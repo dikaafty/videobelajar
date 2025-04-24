@@ -535,6 +535,36 @@ body {
     width: fit-content;
 }
 
+.tab {
+    background-color: transparent;
+    color: var(--secondary-dark-text-color);
+    border: none;
+    padding: 12px 36px 12px 0;
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    cursor: pointer;
+    position: relative;
+}
+
+.tab.active {
+    color: var(--tertiary-color);
+}
+
+.tab.active::after {
+    content: "";
+    display: block;
+    width: 52px;
+    height: 6px;
+    background-color: var(--tertiary-color);
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+  }
+
 .cardImg {
     width: 344px;
     height: 193px;

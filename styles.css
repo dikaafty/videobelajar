@@ -415,7 +415,11 @@ body {
 
 /* Beranda styling section start */
 
-
+.left {
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-between;
+}
 
 /* Beranda styling section end */
 

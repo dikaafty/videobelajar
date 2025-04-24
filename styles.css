@@ -500,6 +500,13 @@ body {
     cursor: pointer;
 }
 
+.cardImg {
+    width: 344px;
+    height: 193px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

@@ -80,6 +80,7 @@ body {
     background-color: #FFF7D7CC;
     padding: 64px 120px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 64px;

@@ -845,6 +845,12 @@ body {
     letter-spacing: 0.2px;
 }
 
+.footerNav {
+    height: fit-content;
+    display: flex;
+    gap: 48px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

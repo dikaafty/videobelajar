@@ -827,6 +827,15 @@ body {
     gap: 12px;
 }
 
+.textInfo {
+    font-family: "DM Sans";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--primary-dark-text-color);
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

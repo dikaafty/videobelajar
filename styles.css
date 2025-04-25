@@ -901,6 +901,11 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.brandSocials {
+    display: flex;
+    gap: 15px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

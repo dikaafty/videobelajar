@@ -815,6 +815,11 @@ body {
     gap: 16px;
 }
 
+.footerBrandInfo img {
+    width: 204px;
+    height: 56px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

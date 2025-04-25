@@ -809,6 +809,12 @@ body {
     justify-content: space-between;
 }
 
+.footerBrandInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

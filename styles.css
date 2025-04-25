@@ -906,6 +906,10 @@ body {
     gap: 15px;
 }
 
+.brandSocials img {
+    width: 35px;
+    height: 35px;
+}
 /* Beranda styling section end */
 
 /* Media Queries section start */

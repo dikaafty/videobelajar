@@ -836,6 +836,16 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.brandAddress,
+.brandPhoneNumber {
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--primary-dark-text-color);
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

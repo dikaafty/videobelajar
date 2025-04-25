@@ -880,6 +880,7 @@ body {
     letter-spacing: 0.2px;
     color: var(--secondary-dark-text-color);
     cursor: pointer;
+    user-select: none;
 }
 
 .navLists p:hover {

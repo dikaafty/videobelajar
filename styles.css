@@ -881,6 +881,12 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.footerSectionDivider {
+    width: 100%;
+    padding-top: 32px;
+    border-bottom: 1px solid var(--border-color);
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

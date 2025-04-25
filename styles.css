@@ -803,6 +803,12 @@ body {
     gap: 20px;
 }
 
+.mainFooterContent {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

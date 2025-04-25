@@ -810,7 +810,7 @@ body {
 }
 
 .footerBrandInfo {
-    width: 352px;
+    width: 354px;
     display: flex;
     flex-direction: column;
     gap: 16px;

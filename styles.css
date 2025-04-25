@@ -822,6 +822,7 @@ body {
 }
 
 .brandInfo {
+    color: var(--primary-dark-text-color);
     display: flex;
     flex-direction: column;
     gap: 12px;
@@ -833,7 +834,6 @@ body {
     font-size: 18px;
     line-height: 140%;
     letter-spacing: 0.2px;
-    color: var(--primary-dark-text-color);
 }
 
 .brandAddress,
@@ -843,7 +843,6 @@ body {
     font-size: 16px;
     line-height: 140%;
     letter-spacing: 0.2px;
-    color: var(--primary-dark-text-color);
 }
 
 /* Beranda styling section end */

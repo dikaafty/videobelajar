@@ -882,6 +882,10 @@ body {
     cursor: pointer;
 }
 
+.navLists p:hover {
+    text-decoration: underline;
+}
+
 .footerSectionDivider {
     width: 100%;
     padding-top: 32px;

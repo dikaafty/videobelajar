@@ -866,6 +866,12 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.navLists {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
 /* Beranda styling section end */
 
 /* Media Queries section start */

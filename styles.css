@@ -933,6 +933,10 @@ body {
     .dehazeIcon {
         display: flex;
     }
+
+    .avatarImg {
+        display: none;
+    }
 }
 
 @media (max-width: 600px) {

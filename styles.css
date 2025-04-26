@@ -1044,6 +1044,10 @@ body {
         font-size: 24px;
     }
 
+    .heroSubTitle {
+        font-size: 14px;
+    }
+
     .dehazeIcon {
         width: 24px;
         height: 24px;

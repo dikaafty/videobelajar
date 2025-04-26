@@ -1044,8 +1044,13 @@ body {
         font-size: 24px;
     }
 
-    .heroSubTitle {
+    .heroSubTitle,
+    .findCourseBtn {
         font-size: 14px;
+    }
+
+    .findCourseBtn {
+        width: 100%;
     }
 
     .dehazeIcon {

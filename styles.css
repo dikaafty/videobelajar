@@ -926,7 +926,9 @@ body {
 /* Media Queries section start */
 
 @media (max-width: 768px) {
-    
+    .navBtn {
+        display: none;
+    }
 }
 
 @media (max-width: 600px) {

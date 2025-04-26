@@ -440,6 +440,10 @@ body {
     cursor: pointer;
 }
 
+.dehazeIcon {
+    display: none;
+}
+
 .avatarImg {
     width: 44px;
     height: 44px;

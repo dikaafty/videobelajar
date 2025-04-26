@@ -460,7 +460,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
-    padding: 82px 140px 64px;
+    padding: clamp(64px, 5.69vw, 82px) clamp(20px, 9.72vw, 140px) 64px;
     color: var(--primary-light-text-color);
     display: flex;
     flex-direction: column;
@@ -478,7 +478,7 @@ body {
 .heroTitle {
     font-family: "Poppins";
     font-weight: 700;
-    font-size: 48px;
+    font-size: clamp(20px, 3.33vw + 5px, 48px);
     line-height: 110.00000000000001%;
     text-align: center;
 }
@@ -486,7 +486,7 @@ body {
 .heroSubTitle {
     font-family: "DM Sans";
     font-weight: 500;
-    font-size: 16px;
+    font-size: clamp(10px, 1.11vw, 16px);
     line-height: 140%;
     letter-spacing: 0.2px;
     text-align: center;
@@ -500,7 +500,7 @@ body {
     padding: 10px 26px;
     font-family: "DM Sans";
     font-weight: 700;
-    font-size: 16px;
+    font-size: clamp(10px, 1.11vw, 16px);
     line-height: 140%;
     letter-spacing: 0.2px;
     cursor: pointer;

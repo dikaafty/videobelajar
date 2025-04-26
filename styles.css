@@ -1036,6 +1036,10 @@ body {
         font-size: 14px;
     }
 
+    .hero {
+        padding: 64px 20px;
+    }
+
     .dehazeIcon {
         width: 24px;
         height: 24px;

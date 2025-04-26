@@ -444,6 +444,7 @@ body {
     display: none;
     width: 28px;
     height: 28px;
+    cursor: pointer;
 }
 
 .avatarImg {

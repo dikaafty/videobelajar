@@ -1040,6 +1040,10 @@ body {
         padding: 64px 20px;
     }
 
+    .heroTitle {
+        font-size: 24px;
+    }
+
     .dehazeIcon {
         width: 24px;
         height: 24px;

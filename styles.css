@@ -1066,6 +1066,10 @@ body {
         width: 100%;
     }
 
+    .cardSectionDesc {
+        width: 100%;
+    }
+
     .dehazeIcon {
         width: 24px;
         height: 24px;

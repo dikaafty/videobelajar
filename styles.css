@@ -1070,6 +1070,10 @@ body {
         width: 100%;
     }
 
+    .cardSectionTitle {
+        font-size: 24px;
+    }
+
     .dehazeIcon {
         width: 24px;
         height: 24px;

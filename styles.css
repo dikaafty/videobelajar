@@ -1177,6 +1177,11 @@ body {
     .newsletterSubTitle {
         font-size: 14px;
     }
+
+    .newsletterInputContainer {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 /* Media Queires section end */

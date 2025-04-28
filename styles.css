@@ -1101,6 +1101,10 @@ body {
     .cardTitle {
         font-size: 16px;
     }
+
+    .cardSubTitle {
+        display: none;
+    }
 }
 
 /* Media Queires section end */

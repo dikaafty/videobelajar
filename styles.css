@@ -796,6 +796,10 @@ body {
     vertical-align: middle;
 }
 
+.newsletterInputContainer input:focus {
+    outline: 2px solid var(--secondary-color);
+}
+
 .subscribeBtn {
     background-color: var(--secondary-color);
     color: var(--primary-light-text-color);

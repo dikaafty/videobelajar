@@ -1191,6 +1191,11 @@ body {
         font-size: 14px;
         text-align: center;
     }
+
+    .subscribeBtn {
+        font-size: 14px;
+        position: unset;
+    }
 }
 
 /* Media Queires section end */

@@ -1165,6 +1165,10 @@ body {
     .newsletterContent {
         width: 100%;
     }
+
+    .newsletterText {
+        font-size: 16px;
+    }
 }
 
 /* Media Queires section end */

@@ -1126,6 +1126,10 @@ body {
     .courseOwnerProfession span {
         display: none;
     }
+
+    .textRating {
+        font-size: 12px;
+    }
 }
 
 /* Media Queires section end */

@@ -736,6 +736,8 @@ body {
     width: 525px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 40px;
 }
 

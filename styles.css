@@ -1105,6 +1105,10 @@ body {
     .cardSubTitle {
         display: none;
     }
+
+    .courseOwner {
+        gap: 8px;
+    }
 }
 
 /* Media Queires section end */

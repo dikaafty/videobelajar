@@ -1182,6 +1182,14 @@ body {
         display: flex;
         flex-direction: column;
     }
+
+    .newsletterInputContainer input {
+        width: 280px;
+        height: fit-content;
+        padding: 10px 8px 10px 12px;
+        font-size: 14px;
+        text-align: center;
+    }
 }
 
 /* Media Queires section end */

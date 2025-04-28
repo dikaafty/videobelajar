@@ -1049,6 +1049,11 @@ body {
         font-size: 14px;
     }
 
+    .dehazeIcon {
+        width: 24px;
+        height: 24px;
+    }
+
     .hero {
         padding: 64px 20px;
     }
@@ -1076,11 +1081,6 @@ body {
 
     .tab {
         font-size: 14px;
-    }
-
-    .dehazeIcon {
-        width: 24px;
-        height: 24px;
     }
 }
 

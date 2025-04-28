@@ -1092,6 +1092,11 @@ body {
         padding: 16px;
         gap: 8px;
     }
+
+    .cardImg {
+        width: 82px;
+        height: 82px;
+    }
 }
 
 /* Media Queires section end */

@@ -739,6 +739,12 @@ body {
     gap: 40px;
 }
 
+.newsletter {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
 .newsletterText {
     font-family: "DM Sans";
     font-weight: 500;

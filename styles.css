@@ -1114,6 +1114,10 @@ body {
         width: 36px;
         height: 36px;
     }
+
+    .courseOwnerName {
+        font-size: 14px;
+    }
 }
 
 /* Media Queires section end */

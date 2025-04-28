@@ -940,6 +940,10 @@ body {
 
 /* Media Queries section start */
 
+@media (max-width: 992px) {
+    
+}
+
 @media (max-width: 768px) {
     .navBtn {
         display: none;

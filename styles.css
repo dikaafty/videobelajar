@@ -678,7 +678,7 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
-.courseOwnerProfession span {
+.courseOwnerProfession .bold {
     font-weight: 700;
 }
 

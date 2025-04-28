@@ -1199,6 +1199,7 @@ body {
     .subscribeBtn {
         font-size: 14px;
         position: unset;
+        transform: translateX(0);
     }
 }
 

@@ -1180,8 +1180,10 @@ body {
     }
 
     .newsletterInputContainer {
+        width: fit-content;
         display: flex;
         flex-direction: column;
+        gap: 16px;
     }
 
     .newsletterInputContainer input {

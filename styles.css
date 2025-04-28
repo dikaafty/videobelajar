@@ -1169,6 +1169,10 @@ body {
     .newsletterText {
         font-size: 16px;
     }
+
+    .newsletterTitle {
+        font-size: 24px;
+    }
 }
 
 /* Media Queires section end */

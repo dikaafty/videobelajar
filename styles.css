@@ -1118,6 +1118,10 @@ body {
     .courseOwnerName {
         font-size: 14px;
     }
+
+    .courseOwnerProfession {
+        font-size: 12px;
+    }
 }
 
 /* Media Queires section end */

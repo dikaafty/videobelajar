@@ -943,9 +943,7 @@ body {
 /* Media Queries section start */
 
 @media (max-width: 992px) {
-    .newsletterTitle {
-        font-size: 28px;
-    }
+    
 }
 
 @media (max-width: 768px) {

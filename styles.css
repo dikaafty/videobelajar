@@ -1109,6 +1109,11 @@ body {
     .courseOwner {
         gap: 8px;
     }
+
+    .charImg {
+        width: 36px;
+        height: 36px;
+    }
 }
 
 /* Media Queires section end */

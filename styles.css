@@ -1207,6 +1207,10 @@ body {
         transform: translateX(0);
     }
 
+    .footerBrandInfo {
+        width: 100%;
+    }
+
     .footerBrandInfo img {
         width: 170px;
         height: 36px;

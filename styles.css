@@ -1225,6 +1225,10 @@ body {
     .footerNav {
         gap: 12px;
     }
+
+    .navLists {
+        display: none;
+    }
 }
 
 /* Media Queires section end */

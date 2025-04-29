@@ -1,6 +1,6 @@
 # videobelajar
 
-VideoBelajar is a simple and responsive web-based video learning platform designed to help users access educational content anytime, anywhere. Whether you're a student or a lifelong learner, this project offers a clean interface to explore and learn from various video materials.
+videobelajar is a simple and responsive web-based video learning platform designed to help users access educational content anytime, anywhere. Whether you're a student or a lifelong learner, this project offers a clean interface to explore and learn from various video materials.
 
 # Features
 

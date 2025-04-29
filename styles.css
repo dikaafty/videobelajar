@@ -1221,6 +1221,10 @@ body {
     .brandPhoneNumber {
         font-size: 14px;
     }
+
+    .footerNav {
+        gap: 12px;
+    }
 }
 
 /* Media Queires section end */

@@ -1215,6 +1215,10 @@ body {
     .brandInfo {
         gap: 8px;
     }
+
+    .textInfo {
+        font-size: 14px;
+    }
 }
 
 /* Media Queires section end */

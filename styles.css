@@ -1227,6 +1227,12 @@ body {
         gap: 12px;
     }
 
+    .navText {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+    }
+
     .navText::after {
         content: ">";
         color: #3A35418A;

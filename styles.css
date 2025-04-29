@@ -1227,6 +1227,11 @@ body {
         gap: 12px;
     }
 
+    .navText::after {
+        content: ">";
+        color: #3A35418A;
+    }
+
     .navLists {
         display: none;
     }

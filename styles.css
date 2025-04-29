@@ -1101,6 +1101,10 @@ body {
         width: 100%;
     }
 
+    .cardSection {
+        gap: 24px;
+    }
+
     .cardSectionTitle {
         font-size: 24px;
     }

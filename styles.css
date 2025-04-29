@@ -957,7 +957,10 @@ body {
 /* Media Queries section start */
 
 @media (max-width: 992px) {
-    
+    .mainFooterContent {
+        flex-direction: column;
+        gap: 16px;
+    }
 }
 
 @media (max-width: 768px) {

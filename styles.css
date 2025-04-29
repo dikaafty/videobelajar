@@ -1245,6 +1245,11 @@ body {
     .navLists {
         display: none;
     }
+
+    .footerBottomBar {
+        flex-direction: column-reverse;
+        gap: 12px;
+    }
 }
 
 /* Media Queires section end */

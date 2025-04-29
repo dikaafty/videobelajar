@@ -1212,6 +1212,10 @@ body {
         gap: 16px;
     }
 
+    .mainFooterContent {
+        gap: 16px;
+    }
+
     .footerBrandInfo {
         width: 100%;
     }

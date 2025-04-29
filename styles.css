@@ -1100,6 +1100,7 @@ body {
 
     .findCourseBtn {
         width: 100%;
+        font-weight: 400;
     }
 
     .cardSection {

@@ -501,7 +501,7 @@ body {
     padding: 10px 26px;
     font-family: "DM Sans";
     font-weight: 700;
-    font-size: clamp(10px, 1.11vw, 16px);
+    font-size: clamp(12px, 1.11vw, 16px);
     line-height: 140%;
     letter-spacing: 0.2px;
     cursor: pointer;

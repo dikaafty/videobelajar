@@ -999,6 +999,7 @@ body {
 
     .main {
         padding: 28px 20px;
+        gap: 24px;
     }
 
     .formContainer {

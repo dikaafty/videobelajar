@@ -1217,7 +1217,8 @@ body {
     }
 
     .textInfo,
-    .brandAddress {
+    .brandAddress,
+    .brandPhoneNumber {
         font-size: 14px;
     }
 }

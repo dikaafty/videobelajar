@@ -1211,6 +1211,10 @@ body {
         width: 170px;
         height: 36px;
     }
+
+    .brandInfo {
+        gap: 8px;
+    }
 }
 
 /* Media Queires section end */

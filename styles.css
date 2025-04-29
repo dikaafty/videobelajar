@@ -1216,7 +1216,8 @@ body {
         gap: 8px;
     }
 
-    .textInfo {
+    .textInfo,
+    .brandAddress {
         font-size: 14px;
     }
 }
